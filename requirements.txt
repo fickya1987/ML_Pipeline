@@ -4,3 +4,5 @@ seaborn
 matplotlib
 plotly
 scikit-learn
+mlens
+groq
